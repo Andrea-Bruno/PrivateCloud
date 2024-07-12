@@ -1,5 +1,5 @@
 # Private Cloud
-Private Cloud storage (Virtual machine OVA image file)
+## Private Cloud storage (Virtual machine OVA image file)
 
 This virtual machine is intended as a demonstration aimed at potential investor partners, it is a truly private cloud that allows anyone to own their data without handing over custody to third parties.
 A device that, combined with the client software, allows you to remotely store your beacons, share them and navigate between them with browser and mobile applications.
