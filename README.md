@@ -14,7 +14,8 @@ IMPORTANT: Contact me privately to obtain the activation code: http://t.me/kr7ge
 
 - [Desktop software (allows real-time folder synchronization)](https://github.com/Andrea-Bruno/CloudClient/releases)
 
-- [Web file explorer (allows you to remotely browse files, upload and download files)](https://raw.githubusercontent.com/Andrea-Bruno/ProxyCloud/master/ClientHtml/CryptoCloudClientWeb.html) Note: Save content as a static HTML page
+- [Web file explorer (allows you to remotely browse files, upload and download files)](https://raw.githubusercontent.com/Andrea-Bruno/ProxyCloud/master/ClientHtml/CryptoCloudClientWeb.html) Note: Save content as a static HTML page  
+    - [Description of the web file explorer and sources](https://github.com/Andrea-Bruno/ProxyCloud)
 
 - Mobile application (a file explorer for both iOS and Android)
 
