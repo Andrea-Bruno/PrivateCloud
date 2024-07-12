@@ -17,7 +17,7 @@ IMPORTANT: Contact me privately to obtain the activation code: http://t.me/kr7ge
 - [Web file explorer (allows you to remotely browse files, upload and download files)](https://raw.githubusercontent.com/Andrea-Bruno/ProxyCloud/master/ClientHtml/CryptoCloudClientWeb.html) Note: Save content as a static HTML page  
     - [Description of the web file explorer and sources](https://github.com/Andrea-Bruno/ProxyCloud)
 
-- Mobile application (a file explorer for both iOS and Android)
+- Mobile application (a file explorer for iOS and Android) [Download APK](http://tc0.it/download/CloudClient.apk)
 
 # Cloud Server project description
 
