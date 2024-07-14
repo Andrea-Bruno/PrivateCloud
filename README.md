@@ -6,7 +6,7 @@ A device that, combined with the client software, allows you to remotely store y
 
 ### Cloud storage
 
-- [Download virtual machine](https://sourceforge.net/projects/private-cloud-virtual-machine/files/Cloud%20Consumer.ova/download) 
+- [Download virtual machine](http://tc0.it/download/CloudConsumer.ova) 
 
 ![Screenshot](CloudConsumer.png)
 
