@@ -6,7 +6,9 @@ A device that, combined with the client software, allows you to remotely store y
 
 ### Cloud storage
 
-- Download virtual machine from this address: **http://bitboxlab.com/Resources/CloudConsumer.ova**
+<a href="https://www.example.com/my great page">link</a>
+
+- [Download virtual machine OVA image](http://bitboxlab.com/Resources/CloudConsumer.ova)
     - IMPORTANT: Contact me privately to obtain the activation code: http://t.me/kr7ge
  
 ![Screenshot](CloudConsumer.png)
