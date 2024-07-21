@@ -6,12 +6,10 @@ A device that, combined with the client software, allows you to remotely store y
 
 ### Cloud storage
 
-- [Download virtual machine](http://tc0.it/download/CloudConsumer.ova) 
-
+- [Download virtual machine](http://www.bitboxlab.com/Resources/CloudConsumer.ova)
+    - IMPORTANT: Contact me privately to obtain the activation code: http://t.me/kr7ge
+ 
 ![Screenshot](CloudConsumer.png)
-
-
-IMPORTANT: Contact me privately to obtain the activation code: http://t.me/kr7ge
 
 ### You can connect to the cloud with the following client software:
 
